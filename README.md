@@ -5,7 +5,7 @@ S. Zhao, S. Sahebi, “Neighborhood-Aware Negative Sampling for Student Knowledg
 
 If you have any questions, please email szhao2@albany.edu
 
-![NANSKoBeM](model.pdf)
+![NANSKoBeM](model.png)
 
 
 ## How to install and run 
